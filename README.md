@@ -1,50 +1,69 @@
-# 👋 Hi, I'm Naim Fitri
+# 🧑‍💻 Naim Fitri – Developer Portfolio
 
-🎓 Final Year Software Engineering Student  
-💻 Full-Stack Developer | 🤖 Machine Learning Enthusiast  
-📍 Based in Malaysia  
+This is my personal portfolio website showcasing my projects, skills, and experience as a full-stack developer and machine learning enthusiast.
 
----
-
-### 🔧 Tech Stack
-
-- **Languages:** Dart, JavaScript, PHP, Python  
-- **Mobile & Web:** Flutter, Laravel, React  
-- **Backend:** Node.js, Express.js  
-- **Database:** Firebase (Realtime DB), Firestore, MySQL  
-- **AI/ML:** Python, scikit-learn, RASA (NLP Chatbots)  
-- **Tools:** Docker, Git, VS Code, XAMPP  
+🚀 Built to highlight my journey as a Software Engineering student and to share what I'm building, learning, and contributing to.
 
 ---
 
-### 🚀 Final Year Project: HandyGO
+## 🔗 Live Demo
 
-**HandyGO** is a mobile and web platform for discovering and booking nearby handymen.  
-Built using:
-- 📱 Flutter (client + handyman app)
-- 🖥️ Laravel (admin dashboard)
-- 🔧 Node.js backend (real-time job tracking + notifications)
-- 🤖 RASA AI chatbot (job classification & smart suggestions)
-- 🔥 Firebase Realtime Database + FCM
-
-> Empowering users with AI-driven, on-demand handyman services.
+🌐 [Visit My Portfolio](https://your-portfolio-link.com) *(Replace with your actual link)*
 
 ---
 
-### 📚 Currently Learning
+## 🛠️ Built With
 
-- Laravel + Firebase Realtime DB integration  
-- Advanced NLP with RASA  
-- Backend optimization with Docker  
-- CI/CD workflows for full-stack apps
-- React
-- Linux (Arch + Hyprland)
+- **Frontend:** React.js + Tailwind CSS  
+- **Routing:** React Router  
+- **Animations:** Framer Motion  
+- **Icons:** Lucide React  
+- **Deployment:** Vercel / Netlify
 
 ---
 
-#### 📫 Let’s Connect!
-- LinkedIn: www.linkedin.com/in/naim-fitri
-- Email: naimfitriabdulhalim@gmail.com 
+## 📁 Features
+
+- 🧑‍💼 About Me section
+- 💼 Project showcase with GitHub and demo links
+- 🧠 Tech stack & skills overview
+- 📬 Contact form or contact details
+- 📱 Responsive design (mobile-friendly)
+
 ---
 
-> "Keep building. Keep learning. Keep sharing."
+## 💡 Notable Projects
+
+### 🔧 HandyGO – FYP
+> A smart handyman booking platform using Flutter, Firebase, Node.js, Laravel & RASA.
+
+- Features: Real-time job matching, chatbot classification, admin panel, push notifications
+- Roles: Full-stack developer, chatbot integrator
+
+... *(Add more projects as needed)*
+
+---
+
+## 🧠 What I Learned
+
+- Building responsive UIs with React + Tailwind
+- Structuring reusable components and scalable layouts
+- Optimizing deployment with modern static hosting
+- Using GitHub and markdown for open source presentation
+
+---
+
+## 📦 Getting Started (For Devs)
+
+```bash
+# Clone the repo
+git clone https://github.com/yourusername/portfolio.git
+
+# Go into the project folder
+cd portfolio
+
+# Install dependencies
+npm install
+
+# Start local server
+npm run dev
